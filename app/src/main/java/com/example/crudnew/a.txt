@@ -1,0 +1,6 @@
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\MainActivity.kt
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\ui
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\ui\theme
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\ui\theme\Color.kt
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\ui\theme\Theme.kt
+C:\Users\Administrator\AndroidStudioProjects\crudnew\app\src\main\java\com\example\crudnew\ui\theme\Type.kt
